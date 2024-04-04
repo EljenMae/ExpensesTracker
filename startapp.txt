@@ -1,0 +1,2 @@
+djangoenv\Scripts\activate
+cd expensesTracker
